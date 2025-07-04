@@ -23,7 +23,6 @@ Currently, I'm immersing myself in:
 
 * [University of Helsinki's MOOC Python Programming (Parts I & II)](https://programming-24.mooc.fi/)
 * [freeCodeCamp's Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/)
-* [Other resources you might use, e.g., Codecademy, official Python docs, etc.]
 
 ---
 
